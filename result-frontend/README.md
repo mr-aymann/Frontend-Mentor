@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/resultsummarycomponent-3EjMAtHz49)
-- [Live Site URL](https://mr-ayman-result-summary.netlify.app/m)
+- [Live Site URL](https://mr-ayman-result-summary.netlify.app/)
 
 ## My Process
 
